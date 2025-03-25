@@ -12,5 +12,6 @@ Active State Indication: The current active section is highlighted.
 Auto-close on Selection: On mobile, selecting a menu item automatically closes the menu for a seamless experience.
 This navbar provides an elegant and efficient navigation solution for any modern website. 🚀
 
-![Screenshot (78)](https://github.com/user-attachments/assets/38970052-0a4f-4259-a583-b9f05038ad4c)
+![Screenshot (78)](https://github.com/user-attachments/assets/dd2e54f8-1eb1-49c8-b3af-a7931c8d1567)
+
 ![Screenshot (79)](https://github.com/user-attachments/assets/7e9ee77d-5fdf-470b-974b-b1e5e0f277fa)
